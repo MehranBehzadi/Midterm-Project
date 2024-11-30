@@ -1,5 +1,4 @@
-# Data Science Midterm Project
-
+# Data Science Midterm Project by Mehran Bhzadi & Krishna Purani
 ## Project/Goals
 
 ## Process
